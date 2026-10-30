@@ -1,8 +1,8 @@
 Minecraft server resource-pack settings
 
 resource-pack=https://raw.githubusercontent.com/xsqezz/treningowemctstexturepack/main/MCTS-Training-Pack.zip
-resource-pack-sha1=95c8807352f369e9588fd3f8973070eeccc620ab
-resource-pack-id=71a34420-e73f-400f-ba5f-9a78a1e7bb48
+resource-pack-sha1=17ef529c8550f4ce7949e0717320365732143aaf
+resource-pack-id=4baf3c69-8863-4dc2-8683-a235b55fd6ac
 resource-pack-prompt={"text":"MCTS Training: Bare Bones + Silkscreen"}
 
 Keep the resource-pack-id unchanged when updating this pack.
