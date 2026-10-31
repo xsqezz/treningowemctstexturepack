@@ -1,6 +1,6 @@
 Minecraft server resource-pack settings
 
 resource-pack=https://raw.githubusercontent.com/xsqezz/treningowemctstexturepack/main/MCTS-Training-Pack.zip
-resource-pack-sha1=846c0ec834bd32a1d93619fe278bbd9983614c95
-resource-pack-id=cc99775a-6903-4e1e-ac8d-e5450ab8d340
+resource-pack-sha1=bf3da48a2b3b2017e0a039053ad85610901a5c9f
+resource-pack-id=d66a5ece-4ef8-40f5-b336-e6457a28a0d1
 resource-pack-prompt={"text":"MCTS Training Resource Pack"}
